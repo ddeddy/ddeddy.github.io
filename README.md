@@ -1,2 +1,2 @@
-# terry.github.io
+# ddeddy.github.io
 simple web development
